@@ -1,0 +1,1 @@
+import{_ as s,o,c,p as t,b as _,a}from"./index-e17482e7.js";const d={},p=e=>(t("data-v-22f2cd0d"),e=e(),_(),e),r={class:"background"},n=p(()=>a("p",{class:"text"},"This is for you to offer US help, we are desperate.",-1)),i=[n];function f(e,l){return o(),c("div",r,i)}const u=s(d,[["render",f],["__scopeId","data-v-22f2cd0d"]]);export{u as default};
